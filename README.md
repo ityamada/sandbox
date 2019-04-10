@@ -2,4 +2,4 @@
 sandbox
 
 test_update
-test2
+test2_update
